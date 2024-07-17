@@ -22,15 +22,15 @@ The QR code component is built using HTML and CSS. It consists of a container th
 
 
 ### Screenshot
-![responsive design testing images](images/screenshoots/Screenshot 2024-07-17 at 13.00.55.png)
-![main image](images/screenshoots/Screenshot 2024-07-17 at 13.02.30.png)
+![responsive design testing images](https://github.com/G-Gakii/QR-code-components/blob/main/images/screenshoots/Screenshot%202024-07-17%20at%2013.00.55.png))
+![main image](https://github.com/G-Gakii/QR-code-components/blob/main/images/screenshoots/Screenshot%202024-07-17%20at%2013.02.30.png)
 
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://g-gakii.github.io/QR-code-components/)
 - Live Site URL: (http://127.0.0.1:5500/index.html)
 
 ## My process
